@@ -1,4 +1,4 @@
 # ApacheLogAnalysis
 Fixpoint, Inc. Programming Assignment
 
-Readme.txtに詳細を記しております。
+ReadＭe.txtに詳細を記しております。
