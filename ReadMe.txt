@@ -67,7 +67,7 @@
 コンパイラ: Visual Studio Express 2015
 
 
-(c) 2017 - Seito Miyazaki, All Rights Reserved,
+(c) 2017 - Seito Miyazaki, All Rights Reserved.
 
 ======================================================================================= 
 
